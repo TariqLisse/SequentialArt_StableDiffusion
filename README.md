@@ -15,6 +15,3 @@ Ensure you have the necessary packages installed. You can install them via pip:
 
 ```bash
 !pip install --upgrade diffusers accelerate transformers
-
-
-
